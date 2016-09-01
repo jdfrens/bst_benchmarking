@@ -1,0 +1,3 @@
+%{"benchfella": {:hex, :benchfella, "0.3.3", "bbde48b5fe1ef556baa7ad933008e214e050e81ddb0916350715f5759fb35c0c", [:mix], []},
+  "pollution": {:hex, :pollution, "0.1.1", "52973c9a5707463d2d939ebad3a68b2ffcf1bea820a1117a4002479beef63035", [:mix], []},
+  "quixir": {:hex, :quixir, "0.1.0", "b382040c8613c64626ae921bf378266121bd38d2edf14479cad751e6ed5cc7a3", [:mix], []}}
